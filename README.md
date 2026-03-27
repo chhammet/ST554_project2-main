@@ -4,6 +4,8 @@
 
 # Project 2: PySpark Data Quality & NFL Analysis
 
+This is a mess. I tried to connect the JupyterLab window to the repo and I had all of my commits leading up to where I was and then is fell out of sync or something and they didn't show up in the repo like the JupyterLab window was showing it was... The instructions said to download the files and commit and that was more literal than I thought it would be...
+
 ## Overview
 
 This project demonstrates the use of Apache Spark (PySpark) for data quality checking 
